@@ -1,4 +1,4 @@
-https://shanazel.atlassian.net/wiki/pages/templates2/listglobaltemplates.action # PDF Services API Documentation 
+ # PDF Services API Documentation 
 
 ## How to develop
 
