@@ -22,5 +22,5 @@ For the documentation developer, please read these sections on how to:
 - [Notes on using Markdown](https://github.com/adobe/gatsby-theme-aio#writing-enhanced-markdown)
 
 For more in-depth [instructions](https://github.com/adobe/gatsby-theme-aio#getting-started).
-Created by Jason Scott Heise
-owned by Elon Musk 
+Created by Jason Heise
+owned by Jason Heise heisejason-png Giters
